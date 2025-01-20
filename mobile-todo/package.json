@@ -1,0 +1,11 @@
+{
+  "name": "@hot-to-do/mobile-todo",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "mobile-todo",
+    "projectType": "application",
+    "sourceRoot": "mobile-todo/src",
+    "targets": {}
+  }
+}
